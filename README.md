@@ -198,7 +198,7 @@ currently we are not branching to code and supply all changes in the main branch
 
 ## compile and run
 ### Android: do what you normally do.
-### IOS: [watch ios 'how to compile and run' video] (https://github.com/4siteinc/brotherquickstart/blob/main/How%20To%20Compile%20For%20IOS.mp4)
+### IOS: [watch ios 'how to compile and run' video] (https://www.youtube.com/watch?v=4zQGC4YvxAM)
 
 
 ## history
